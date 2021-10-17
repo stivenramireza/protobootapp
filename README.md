@@ -1,6 +1,6 @@
-# protobootapp
+# Spring Boot + GitHub Actions
 
-A very simple Spring Boot app for education and testing purposes.
+Spring Boot app to build a CI pipeline with GitHub Actions.
 
 <p align="center">
 <img src="https://www.federico-toledo.com/wp-content/uploads/2017/09/continuous-integration-in-devops.jpg">
